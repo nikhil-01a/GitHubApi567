@@ -4,7 +4,8 @@
 The primary goal of this file is to demonstrate a simple unittest implementation
 
 """
-
+import json
+import requests
 import unittest
 
 from HomeWork04a import Githubid

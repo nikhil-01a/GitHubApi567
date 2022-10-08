@@ -4,15 +4,13 @@ Program: This program is used to take a 'github user id' as an input from the us
 
 """
 #importing modules
-#import json
-#import requests
+import json
+import requests
 
 #uid = input('Enter your github user id: ')
 
 #Main function to retrieve and return the name of the repositories
 def Githubid(username):
-    import json
-    import requests
 
     #seperate function to retrieve and return the number of commits (I have it inside main function so that it need not be tested seperately)
     def countcommits(username,repo):
