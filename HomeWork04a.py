@@ -7,16 +7,18 @@ Program: This program is used to take a 'github user id' as an input from the us
 import json
 import requests
 
-#seperate function to retrieve and return the number of commits
-def countcommits(username,repo):
-    urlc = "https://api.github.com/repos/%s/%s/commits"% (username,repo)
-    commit_count = requests.get(urlc).json()
-    count = len(commit_count)
-    return count
+username = input('Enter your github user id: ')
 
 #Main function to retrieve and return the name of the repositories
-def Githubid():
-    username = input('Enter your github user id: ')
+def Githubid(username):
+
+    #seperate function to retrieve and return the number of commits (I have it inside main function so that it need not be tested seperately)
+    def countcommits(username,repo):
+        urlc = "https://api.github.com/repos/%s/%s/commits"% (username,repo)
+        commit_count = requests.get(urlc).json()
+        count = len(commit_count)
+        return count
+
     url = "https://api.github.com/users/%s/repos"%username
     repo_name = requests.get(url).json()
     
@@ -24,6 +26,10 @@ def Githubid():
         repo = f"{project['name']}"
         print(f"Repo: {repo}, Number of Commits: {countcommits(username,repo)}")
 
-#Calling main function  
-Githubid()
+    response = requests.get(url)
+    check = response.status_code
+    if (check == 200):
+        return 'Valid'
 
+#Calling main function  
+Githubid(username)
