@@ -16,7 +16,7 @@ class TestGithubApi(unittest.TestCase):
     # define multiple sets of tests as functions with names that begin
 
     def testuserID(self): 
-        self.assertEqual(Githubid("nikhil-01a"),'Valid','The User-ID exists')
+        self.assertEqual(Githubid('nikhil-01a'),'Valid','The User-ID exists')
 
 
 if __name__ == '__main__':

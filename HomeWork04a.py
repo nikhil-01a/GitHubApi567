@@ -7,7 +7,7 @@ Program: This program is used to take a 'github user id' as an input from the us
 import json
 import requests
 
-username = input('Enter your github user id: ')
+#uid = input('Enter your github user id: ')
 
 #Main function to retrieve and return the name of the repositories
 def Githubid(username):
@@ -32,4 +32,4 @@ def Githubid(username):
         return 'Valid'
 
 #Calling main function  
-Githubid(username)
+#Githubid(uid)
