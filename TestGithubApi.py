@@ -22,3 +22,4 @@ class TestGithubApi(unittest.TestCase):
 if __name__ == '__main__':
     print('Running unit tests')
     unittest.main()
+ 
