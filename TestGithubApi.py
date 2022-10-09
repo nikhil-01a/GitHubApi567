@@ -1,7 +1,7 @@
 """
 @author: Nikhil Kumar G
 
-The primary goal of this file is to demonstrate a simple unittest implementation
+The primary goal of this file is to test the function taking in a github user id and printing the number of repositories and the number of commits in each repository
 
 """
 
@@ -17,7 +17,6 @@ class TestGithubApi(unittest.TestCase):
 
     def testuserID(self): 
         self.assertEqual(Githubid('nikhil-01a'),'Valid','The User-ID exists')
-
 
 if __name__ == '__main__':
     print('Running unit tests')

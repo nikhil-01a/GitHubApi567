@@ -27,7 +27,7 @@ def Githubid(username):
         print(f"Repo: {repo}, Number of Commits: {countcommits(username,repo)}")
 
     response = requests.get(url)
-    check = response.status_code
+    check = response.status_code #Added a status check verification so that the tester can use its return value and test the availability of user-id
     if (check == 200):
         return 'Valid'
 
