@@ -18,6 +18,12 @@ class TestGithubApi(unittest.TestCase):
     def testuserID(self): 
         self.assertEqual(Githubid('nikhil-01a'),'Valid','The User-ID exists')
 
+    def testuserID(self): 
+        self.assertEqual(Githubid('nikhil-01a'),'String','The User-ID is valid')
+
+    def testuserID(self): 
+        self.assertEqual(Githubid('nik'),'Valid','The User-ID exists')
+
 if __name__ == '__main__':
     print('Running unit tests')
     unittest.main()
