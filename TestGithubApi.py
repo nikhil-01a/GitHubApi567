@@ -19,7 +19,7 @@ class TestGithubApi(unittest.TestCase):
         self.assertEqual(Githubid('nikhil-01a'),'Valid','The User-ID exists')
 
     def testuserID(self): 
-        self.assertEqual(Githubid('a'*(40)),'invalid','The User-ID has more than 39 characters')
+        self.assertEqual(Githubid('a'*(40)),'Username invalid','The User-ID has more than 39 characters')
 
 if __name__ == '__main__':
     print('Running unit tests')
