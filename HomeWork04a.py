@@ -4,8 +4,7 @@ Program: This program is used to take a 'github user id' as an input from the us
 
 """
 #importing modules
-from itertools import count
-import json
+
 import requests
 
 #Main function to retrieve and return the name of the repositories
