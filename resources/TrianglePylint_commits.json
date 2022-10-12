@@ -1,0 +1,1657 @@
+[
+    {
+      "sha": "d34535c6f588dd554bfc82e956e329efdf0c1800",
+      "node_id": "C_kwDOIL4twdoAKGQzNDUzNWM2ZjU4OGRkNTU0YmZjODJlOTU2ZTMyOWVmZGYwYzE4MDA",
+      "commit": {
+        "author": {
+          "name": "nikhilparmar",
+          "email": "nkumarg@stevens.edu",
+          "date": "2022-10-11T21:29:04Z"
+        },
+        "committer": {
+          "name": "nikhilparmar",
+          "email": "nkumarg@stevens.edu",
+          "date": "2022-10-11T21:29:04Z"
+        },
+        "message": "tested",
+        "tree": {
+          "sha": "a2f4fc9e9594c938d778e88785c905e51430d557",
+          "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/git/trees/a2f4fc9e9594c938d778e88785c905e51430d557"
+        },
+        "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/git/commits/d34535c6f588dd554bfc82e956e329efdf0c1800",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/d34535c6f588dd554bfc82e956e329efdf0c1800",
+      "html_url": "https://github.com/nikhil-01a/TrianglePylint/commit/d34535c6f588dd554bfc82e956e329efdf0c1800",
+      "comments_url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/d34535c6f588dd554bfc82e956e329efdf0c1800/comments",
+      "author": {
+        "login": "nikhil-01a",
+        "id": 112984761,
+        "node_id": "U_kgDOBrwCuQ",
+        "avatar_url": "https://avatars.githubusercontent.com/u/112984761?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/nikhil-01a",
+        "html_url": "https://github.com/nikhil-01a",
+        "followers_url": "https://api.github.com/users/nikhil-01a/followers",
+        "following_url": "https://api.github.com/users/nikhil-01a/following{/other_user}",
+        "gists_url": "https://api.github.com/users/nikhil-01a/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/nikhil-01a/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/nikhil-01a/subscriptions",
+        "organizations_url": "https://api.github.com/users/nikhil-01a/orgs",
+        "repos_url": "https://api.github.com/users/nikhil-01a/repos",
+        "events_url": "https://api.github.com/users/nikhil-01a/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/nikhil-01a/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "nikhil-01a",
+        "id": 112984761,
+        "node_id": "U_kgDOBrwCuQ",
+        "avatar_url": "https://avatars.githubusercontent.com/u/112984761?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/nikhil-01a",
+        "html_url": "https://github.com/nikhil-01a",
+        "followers_url": "https://api.github.com/users/nikhil-01a/followers",
+        "following_url": "https://api.github.com/users/nikhil-01a/following{/other_user}",
+        "gists_url": "https://api.github.com/users/nikhil-01a/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/nikhil-01a/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/nikhil-01a/subscriptions",
+        "organizations_url": "https://api.github.com/users/nikhil-01a/orgs",
+        "repos_url": "https://api.github.com/users/nikhil-01a/repos",
+        "events_url": "https://api.github.com/users/nikhil-01a/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/nikhil-01a/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "8fe83310a5c3a9de9a6bf9576c7bf23ab7583331",
+          "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/8fe83310a5c3a9de9a6bf9576c7bf23ab7583331",
+          "html_url": "https://github.com/nikhil-01a/TrianglePylint/commit/8fe83310a5c3a9de9a6bf9576c7bf23ab7583331"
+        }
+      ]
+    },
+    {
+      "sha": "8fe83310a5c3a9de9a6bf9576c7bf23ab7583331",
+      "node_id": "C_kwDOIL4twdoAKDhmZTgzMzEwYTVjM2E5ZGU5YTZiZjk1NzZjN2JmMjNhYjc1ODMzMzE",
+      "commit": {
+        "author": {
+          "name": "nikhilparmar",
+          "email": "nkumarg@stevens.edu",
+          "date": "2022-10-11T21:27:54Z"
+        },
+        "committer": {
+          "name": "nikhilparmar",
+          "email": "nkumarg@stevens.edu",
+          "date": "2022-10-11T21:27:54Z"
+        },
+        "message": "fixed silly error in main code",
+        "tree": {
+          "sha": "3322063dd8605b16f05ab4c62752e0e3dcfb9c0c",
+          "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/git/trees/3322063dd8605b16f05ab4c62752e0e3dcfb9c0c"
+        },
+        "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/git/commits/8fe83310a5c3a9de9a6bf9576c7bf23ab7583331",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/8fe83310a5c3a9de9a6bf9576c7bf23ab7583331",
+      "html_url": "https://github.com/nikhil-01a/TrianglePylint/commit/8fe83310a5c3a9de9a6bf9576c7bf23ab7583331",
+      "comments_url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/8fe83310a5c3a9de9a6bf9576c7bf23ab7583331/comments",
+      "author": {
+        "login": "nikhil-01a",
+        "id": 112984761,
+        "node_id": "U_kgDOBrwCuQ",
+        "avatar_url": "https://avatars.githubusercontent.com/u/112984761?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/nikhil-01a",
+        "html_url": "https://github.com/nikhil-01a",
+        "followers_url": "https://api.github.com/users/nikhil-01a/followers",
+        "following_url": "https://api.github.com/users/nikhil-01a/following{/other_user}",
+        "gists_url": "https://api.github.com/users/nikhil-01a/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/nikhil-01a/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/nikhil-01a/subscriptions",
+        "organizations_url": "https://api.github.com/users/nikhil-01a/orgs",
+        "repos_url": "https://api.github.com/users/nikhil-01a/repos",
+        "events_url": "https://api.github.com/users/nikhil-01a/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/nikhil-01a/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "nikhil-01a",
+        "id": 112984761,
+        "node_id": "U_kgDOBrwCuQ",
+        "avatar_url": "https://avatars.githubusercontent.com/u/112984761?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/nikhil-01a",
+        "html_url": "https://github.com/nikhil-01a",
+        "followers_url": "https://api.github.com/users/nikhil-01a/followers",
+        "following_url": "https://api.github.com/users/nikhil-01a/following{/other_user}",
+        "gists_url": "https://api.github.com/users/nikhil-01a/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/nikhil-01a/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/nikhil-01a/subscriptions",
+        "organizations_url": "https://api.github.com/users/nikhil-01a/orgs",
+        "repos_url": "https://api.github.com/users/nikhil-01a/repos",
+        "events_url": "https://api.github.com/users/nikhil-01a/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/nikhil-01a/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "39efbd7719f399fce72d18fd7a8d2bd29d08c5b4",
+          "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/39efbd7719f399fce72d18fd7a8d2bd29d08c5b4",
+          "html_url": "https://github.com/nikhil-01a/TrianglePylint/commit/39efbd7719f399fce72d18fd7a8d2bd29d08c5b4"
+        }
+      ]
+    },
+    {
+      "sha": "39efbd7719f399fce72d18fd7a8d2bd29d08c5b4",
+      "node_id": "C_kwDOIL4twdoAKDM5ZWZiZDc3MTlmMzk5ZmNlNzJkMThmZDdhOGQyYmQyOWQwOGM1YjQ",
+      "commit": {
+        "author": {
+          "name": "nikhilparmar",
+          "email": "nkumarg@stevens.edu",
+          "date": "2022-10-11T21:20:51Z"
+        },
+        "committer": {
+          "name": "nikhilparmar",
+          "email": "nkumarg@stevens.edu",
+          "date": "2022-10-11T21:20:51Z"
+        },
+        "message": "removed else and elif",
+        "tree": {
+          "sha": "2cdef313270d864f65641aeaaa37c4dab802081f",
+          "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/git/trees/2cdef313270d864f65641aeaaa37c4dab802081f"
+        },
+        "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/git/commits/39efbd7719f399fce72d18fd7a8d2bd29d08c5b4",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/39efbd7719f399fce72d18fd7a8d2bd29d08c5b4",
+      "html_url": "https://github.com/nikhil-01a/TrianglePylint/commit/39efbd7719f399fce72d18fd7a8d2bd29d08c5b4",
+      "comments_url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/39efbd7719f399fce72d18fd7a8d2bd29d08c5b4/comments",
+      "author": {
+        "login": "nikhil-01a",
+        "id": 112984761,
+        "node_id": "U_kgDOBrwCuQ",
+        "avatar_url": "https://avatars.githubusercontent.com/u/112984761?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/nikhil-01a",
+        "html_url": "https://github.com/nikhil-01a",
+        "followers_url": "https://api.github.com/users/nikhil-01a/followers",
+        "following_url": "https://api.github.com/users/nikhil-01a/following{/other_user}",
+        "gists_url": "https://api.github.com/users/nikhil-01a/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/nikhil-01a/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/nikhil-01a/subscriptions",
+        "organizations_url": "https://api.github.com/users/nikhil-01a/orgs",
+        "repos_url": "https://api.github.com/users/nikhil-01a/repos",
+        "events_url": "https://api.github.com/users/nikhil-01a/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/nikhil-01a/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "nikhil-01a",
+        "id": 112984761,
+        "node_id": "U_kgDOBrwCuQ",
+        "avatar_url": "https://avatars.githubusercontent.com/u/112984761?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/nikhil-01a",
+        "html_url": "https://github.com/nikhil-01a",
+        "followers_url": "https://api.github.com/users/nikhil-01a/followers",
+        "following_url": "https://api.github.com/users/nikhil-01a/following{/other_user}",
+        "gists_url": "https://api.github.com/users/nikhil-01a/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/nikhil-01a/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/nikhil-01a/subscriptions",
+        "organizations_url": "https://api.github.com/users/nikhil-01a/orgs",
+        "repos_url": "https://api.github.com/users/nikhil-01a/repos",
+        "events_url": "https://api.github.com/users/nikhil-01a/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/nikhil-01a/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "629bd31fa00fbb693874440bf1e667ca4024f857",
+          "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/629bd31fa00fbb693874440bf1e667ca4024f857",
+          "html_url": "https://github.com/nikhil-01a/TrianglePylint/commit/629bd31fa00fbb693874440bf1e667ca4024f857"
+        }
+      ]
+    },
+    {
+      "sha": "629bd31fa00fbb693874440bf1e667ca4024f857",
+      "node_id": "C_kwDOIL4twdoAKDYyOWJkMzFmYTAwZmJiNjkzODc0NDQwYmYxZTY2N2NhNDAyNGY4NTc",
+      "commit": {
+        "author": {
+          "name": "nikhilparmar",
+          "email": "nkumarg@stevens.edu",
+          "date": "2022-10-11T21:20:38Z"
+        },
+        "committer": {
+          "name": "nikhilparmar",
+          "email": "nkumarg@stevens.edu",
+          "date": "2022-10-11T21:20:38Z"
+        },
+        "message": "removed unnecessary elif and else",
+        "tree": {
+          "sha": "24d65884d25caf5a61f706ea13d392535827bc80",
+          "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/git/trees/24d65884d25caf5a61f706ea13d392535827bc80"
+        },
+        "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/git/commits/629bd31fa00fbb693874440bf1e667ca4024f857",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/629bd31fa00fbb693874440bf1e667ca4024f857",
+      "html_url": "https://github.com/nikhil-01a/TrianglePylint/commit/629bd31fa00fbb693874440bf1e667ca4024f857",
+      "comments_url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/629bd31fa00fbb693874440bf1e667ca4024f857/comments",
+      "author": {
+        "login": "nikhil-01a",
+        "id": 112984761,
+        "node_id": "U_kgDOBrwCuQ",
+        "avatar_url": "https://avatars.githubusercontent.com/u/112984761?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/nikhil-01a",
+        "html_url": "https://github.com/nikhil-01a",
+        "followers_url": "https://api.github.com/users/nikhil-01a/followers",
+        "following_url": "https://api.github.com/users/nikhil-01a/following{/other_user}",
+        "gists_url": "https://api.github.com/users/nikhil-01a/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/nikhil-01a/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/nikhil-01a/subscriptions",
+        "organizations_url": "https://api.github.com/users/nikhil-01a/orgs",
+        "repos_url": "https://api.github.com/users/nikhil-01a/repos",
+        "events_url": "https://api.github.com/users/nikhil-01a/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/nikhil-01a/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "nikhil-01a",
+        "id": 112984761,
+        "node_id": "U_kgDOBrwCuQ",
+        "avatar_url": "https://avatars.githubusercontent.com/u/112984761?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/nikhil-01a",
+        "html_url": "https://github.com/nikhil-01a",
+        "followers_url": "https://api.github.com/users/nikhil-01a/followers",
+        "following_url": "https://api.github.com/users/nikhil-01a/following{/other_user}",
+        "gists_url": "https://api.github.com/users/nikhil-01a/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/nikhil-01a/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/nikhil-01a/subscriptions",
+        "organizations_url": "https://api.github.com/users/nikhil-01a/orgs",
+        "repos_url": "https://api.github.com/users/nikhil-01a/repos",
+        "events_url": "https://api.github.com/users/nikhil-01a/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/nikhil-01a/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "22ad5a1bf60412bd5e4b29e6baf07ff50715a347",
+          "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/22ad5a1bf60412bd5e4b29e6baf07ff50715a347",
+          "html_url": "https://github.com/nikhil-01a/TrianglePylint/commit/22ad5a1bf60412bd5e4b29e6baf07ff50715a347"
+        }
+      ]
+    },
+    {
+      "sha": "22ad5a1bf60412bd5e4b29e6baf07ff50715a347",
+      "node_id": "C_kwDOIL4twdoAKDIyYWQ1YTFiZjYwNDEyYmQ1ZTRiMjllNmJhZjA3ZmY1MDcxNWEzNDc",
+      "commit": {
+        "author": {
+          "name": "nikhilparmar",
+          "email": "nkumarg@stevens.edu",
+          "date": "2022-10-11T21:15:17Z"
+        },
+        "committer": {
+          "name": "nikhilparmar",
+          "email": "nkumarg@stevens.edu",
+          "date": "2022-10-11T21:15:17Z"
+        },
+        "message": "Removed pylint errors, conventions and warnings",
+        "tree": {
+          "sha": "ae523b7fd06fbf8fe6c082d0cf1e8498efa9e2e1",
+          "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/git/trees/ae523b7fd06fbf8fe6c082d0cf1e8498efa9e2e1"
+        },
+        "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/git/commits/22ad5a1bf60412bd5e4b29e6baf07ff50715a347",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/22ad5a1bf60412bd5e4b29e6baf07ff50715a347",
+      "html_url": "https://github.com/nikhil-01a/TrianglePylint/commit/22ad5a1bf60412bd5e4b29e6baf07ff50715a347",
+      "comments_url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/22ad5a1bf60412bd5e4b29e6baf07ff50715a347/comments",
+      "author": {
+        "login": "nikhil-01a",
+        "id": 112984761,
+        "node_id": "U_kgDOBrwCuQ",
+        "avatar_url": "https://avatars.githubusercontent.com/u/112984761?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/nikhil-01a",
+        "html_url": "https://github.com/nikhil-01a",
+        "followers_url": "https://api.github.com/users/nikhil-01a/followers",
+        "following_url": "https://api.github.com/users/nikhil-01a/following{/other_user}",
+        "gists_url": "https://api.github.com/users/nikhil-01a/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/nikhil-01a/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/nikhil-01a/subscriptions",
+        "organizations_url": "https://api.github.com/users/nikhil-01a/orgs",
+        "repos_url": "https://api.github.com/users/nikhil-01a/repos",
+        "events_url": "https://api.github.com/users/nikhil-01a/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/nikhil-01a/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "nikhil-01a",
+        "id": 112984761,
+        "node_id": "U_kgDOBrwCuQ",
+        "avatar_url": "https://avatars.githubusercontent.com/u/112984761?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/nikhil-01a",
+        "html_url": "https://github.com/nikhil-01a",
+        "followers_url": "https://api.github.com/users/nikhil-01a/followers",
+        "following_url": "https://api.github.com/users/nikhil-01a/following{/other_user}",
+        "gists_url": "https://api.github.com/users/nikhil-01a/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/nikhil-01a/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/nikhil-01a/subscriptions",
+        "organizations_url": "https://api.github.com/users/nikhil-01a/orgs",
+        "repos_url": "https://api.github.com/users/nikhil-01a/repos",
+        "events_url": "https://api.github.com/users/nikhil-01a/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/nikhil-01a/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "7ed16d4c7c45d7b6362658acf8558f1620d3e66c",
+          "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/7ed16d4c7c45d7b6362658acf8558f1620d3e66c",
+          "html_url": "https://github.com/nikhil-01a/TrianglePylint/commit/7ed16d4c7c45d7b6362658acf8558f1620d3e66c"
+        }
+      ]
+    },
+    {
+      "sha": "7ed16d4c7c45d7b6362658acf8558f1620d3e66c",
+      "node_id": "C_kwDOIL4twdoAKDdlZDE2ZDRjN2M0NWQ3YjYzNjI2NThhY2Y4NTU4ZjE2MjBkM2U2NmM",
+      "commit": {
+        "author": {
+          "name": "nikhilparmar",
+          "email": "nkumarg@stevens.edu",
+          "date": "2022-10-11T20:52:33Z"
+        },
+        "committer": {
+          "name": "nikhilparmar",
+          "email": "nkumarg@stevens.edu",
+          "date": "2022-10-11T20:52:33Z"
+        },
+        "message": "changed",
+        "tree": {
+          "sha": "4be1a361531c048e0e8c6d3a2593253edf7fac44",
+          "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/git/trees/4be1a361531c048e0e8c6d3a2593253edf7fac44"
+        },
+        "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/git/commits/7ed16d4c7c45d7b6362658acf8558f1620d3e66c",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/7ed16d4c7c45d7b6362658acf8558f1620d3e66c",
+      "html_url": "https://github.com/nikhil-01a/TrianglePylint/commit/7ed16d4c7c45d7b6362658acf8558f1620d3e66c",
+      "comments_url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/7ed16d4c7c45d7b6362658acf8558f1620d3e66c/comments",
+      "author": {
+        "login": "nikhil-01a",
+        "id": 112984761,
+        "node_id": "U_kgDOBrwCuQ",
+        "avatar_url": "https://avatars.githubusercontent.com/u/112984761?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/nikhil-01a",
+        "html_url": "https://github.com/nikhil-01a",
+        "followers_url": "https://api.github.com/users/nikhil-01a/followers",
+        "following_url": "https://api.github.com/users/nikhil-01a/following{/other_user}",
+        "gists_url": "https://api.github.com/users/nikhil-01a/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/nikhil-01a/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/nikhil-01a/subscriptions",
+        "organizations_url": "https://api.github.com/users/nikhil-01a/orgs",
+        "repos_url": "https://api.github.com/users/nikhil-01a/repos",
+        "events_url": "https://api.github.com/users/nikhil-01a/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/nikhil-01a/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "nikhil-01a",
+        "id": 112984761,
+        "node_id": "U_kgDOBrwCuQ",
+        "avatar_url": "https://avatars.githubusercontent.com/u/112984761?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/nikhil-01a",
+        "html_url": "https://github.com/nikhil-01a",
+        "followers_url": "https://api.github.com/users/nikhil-01a/followers",
+        "following_url": "https://api.github.com/users/nikhil-01a/following{/other_user}",
+        "gists_url": "https://api.github.com/users/nikhil-01a/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/nikhil-01a/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/nikhil-01a/subscriptions",
+        "organizations_url": "https://api.github.com/users/nikhil-01a/orgs",
+        "repos_url": "https://api.github.com/users/nikhil-01a/repos",
+        "events_url": "https://api.github.com/users/nikhil-01a/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/nikhil-01a/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "e465211a34954a0006bd1f3445f567b67b427b25",
+          "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/e465211a34954a0006bd1f3445f567b67b427b25",
+          "html_url": "https://github.com/nikhil-01a/TrianglePylint/commit/e465211a34954a0006bd1f3445f567b67b427b25"
+        }
+      ]
+    },
+    {
+      "sha": "e465211a34954a0006bd1f3445f567b67b427b25",
+      "node_id": "C_kwDOIL4twdoAKGU0NjUyMTFhMzQ5NTRhMDAwNmJkMWYzNDQ1ZjU2N2I2N2I0MjdiMjU",
+      "commit": {
+        "author": {
+          "name": "nikhilparmar",
+          "email": "nkumarg@stevens.edu",
+          "date": "2022-10-11T20:31:48Z"
+        },
+        "committer": {
+          "name": "nikhilparmar",
+          "email": "nkumarg@stevens.edu",
+          "date": "2022-10-11T20:31:48Z"
+        },
+        "message": "modified",
+        "tree": {
+          "sha": "8891d1041b8c1ec3ce2bc677dfb3efcabc01a452",
+          "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/git/trees/8891d1041b8c1ec3ce2bc677dfb3efcabc01a452"
+        },
+        "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/git/commits/e465211a34954a0006bd1f3445f567b67b427b25",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/e465211a34954a0006bd1f3445f567b67b427b25",
+      "html_url": "https://github.com/nikhil-01a/TrianglePylint/commit/e465211a34954a0006bd1f3445f567b67b427b25",
+      "comments_url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/e465211a34954a0006bd1f3445f567b67b427b25/comments",
+      "author": {
+        "login": "nikhil-01a",
+        "id": 112984761,
+        "node_id": "U_kgDOBrwCuQ",
+        "avatar_url": "https://avatars.githubusercontent.com/u/112984761?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/nikhil-01a",
+        "html_url": "https://github.com/nikhil-01a",
+        "followers_url": "https://api.github.com/users/nikhil-01a/followers",
+        "following_url": "https://api.github.com/users/nikhil-01a/following{/other_user}",
+        "gists_url": "https://api.github.com/users/nikhil-01a/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/nikhil-01a/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/nikhil-01a/subscriptions",
+        "organizations_url": "https://api.github.com/users/nikhil-01a/orgs",
+        "repos_url": "https://api.github.com/users/nikhil-01a/repos",
+        "events_url": "https://api.github.com/users/nikhil-01a/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/nikhil-01a/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "nikhil-01a",
+        "id": 112984761,
+        "node_id": "U_kgDOBrwCuQ",
+        "avatar_url": "https://avatars.githubusercontent.com/u/112984761?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/nikhil-01a",
+        "html_url": "https://github.com/nikhil-01a",
+        "followers_url": "https://api.github.com/users/nikhil-01a/followers",
+        "following_url": "https://api.github.com/users/nikhil-01a/following{/other_user}",
+        "gists_url": "https://api.github.com/users/nikhil-01a/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/nikhil-01a/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/nikhil-01a/subscriptions",
+        "organizations_url": "https://api.github.com/users/nikhil-01a/orgs",
+        "repos_url": "https://api.github.com/users/nikhil-01a/repos",
+        "events_url": "https://api.github.com/users/nikhil-01a/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/nikhil-01a/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "957dc1991b5e28694e251696e3859bdf248e70e9",
+          "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/957dc1991b5e28694e251696e3859bdf248e70e9",
+          "html_url": "https://github.com/nikhil-01a/TrianglePylint/commit/957dc1991b5e28694e251696e3859bdf248e70e9"
+        }
+      ]
+    },
+    {
+      "sha": "957dc1991b5e28694e251696e3859bdf248e70e9",
+      "node_id": "C_kwDOIL4twdoAKDk1N2RjMTk5MWI1ZTI4Njk0ZTI1MTY5NmUzODU5YmRmMjQ4ZTcwZTk",
+      "commit": {
+        "author": {
+          "name": "nikhilparmar",
+          "email": "nkumarg@stevens.edu",
+          "date": "2022-10-11T20:14:38Z"
+        },
+        "committer": {
+          "name": "nikhilparmar",
+          "email": "nkumarg@stevens.edu",
+          "date": "2022-10-11T20:14:38Z"
+        },
+        "message": "modified",
+        "tree": {
+          "sha": "2647dbe35964685e65b0da1d35231980a6862012",
+          "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/git/trees/2647dbe35964685e65b0da1d35231980a6862012"
+        },
+        "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/git/commits/957dc1991b5e28694e251696e3859bdf248e70e9",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/957dc1991b5e28694e251696e3859bdf248e70e9",
+      "html_url": "https://github.com/nikhil-01a/TrianglePylint/commit/957dc1991b5e28694e251696e3859bdf248e70e9",
+      "comments_url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/957dc1991b5e28694e251696e3859bdf248e70e9/comments",
+      "author": {
+        "login": "nikhil-01a",
+        "id": 112984761,
+        "node_id": "U_kgDOBrwCuQ",
+        "avatar_url": "https://avatars.githubusercontent.com/u/112984761?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/nikhil-01a",
+        "html_url": "https://github.com/nikhil-01a",
+        "followers_url": "https://api.github.com/users/nikhil-01a/followers",
+        "following_url": "https://api.github.com/users/nikhil-01a/following{/other_user}",
+        "gists_url": "https://api.github.com/users/nikhil-01a/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/nikhil-01a/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/nikhil-01a/subscriptions",
+        "organizations_url": "https://api.github.com/users/nikhil-01a/orgs",
+        "repos_url": "https://api.github.com/users/nikhil-01a/repos",
+        "events_url": "https://api.github.com/users/nikhil-01a/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/nikhil-01a/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "nikhil-01a",
+        "id": 112984761,
+        "node_id": "U_kgDOBrwCuQ",
+        "avatar_url": "https://avatars.githubusercontent.com/u/112984761?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/nikhil-01a",
+        "html_url": "https://github.com/nikhil-01a",
+        "followers_url": "https://api.github.com/users/nikhil-01a/followers",
+        "following_url": "https://api.github.com/users/nikhil-01a/following{/other_user}",
+        "gists_url": "https://api.github.com/users/nikhil-01a/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/nikhil-01a/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/nikhil-01a/subscriptions",
+        "organizations_url": "https://api.github.com/users/nikhil-01a/orgs",
+        "repos_url": "https://api.github.com/users/nikhil-01a/repos",
+        "events_url": "https://api.github.com/users/nikhil-01a/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/nikhil-01a/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "b95c6b005b9dc433cf0eec1f573d47b5b8e910a7",
+          "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/b95c6b005b9dc433cf0eec1f573d47b5b8e910a7",
+          "html_url": "https://github.com/nikhil-01a/TrianglePylint/commit/b95c6b005b9dc433cf0eec1f573d47b5b8e910a7"
+        }
+      ]
+    },
+    {
+      "sha": "b95c6b005b9dc433cf0eec1f573d47b5b8e910a7",
+      "node_id": "C_kwDOIL4twdoAKGI5NWM2YjAwNWI5ZGM0MzNjZjBlZWMxZjU3M2Q0N2I1YjhlOTEwYTc",
+      "commit": {
+        "author": {
+          "name": "nikhilparmar",
+          "email": "nkumarg@stevens.edu",
+          "date": "2022-10-11T16:32:49Z"
+        },
+        "committer": {
+          "name": "nikhilparmar",
+          "email": "nkumarg@stevens.edu",
+          "date": "2022-10-11T16:32:49Z"
+        },
+        "message": "modified",
+        "tree": {
+          "sha": "3523c3297eb03c95df47795116176eeb568e9dcb",
+          "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/git/trees/3523c3297eb03c95df47795116176eeb568e9dcb"
+        },
+        "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/git/commits/b95c6b005b9dc433cf0eec1f573d47b5b8e910a7",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/b95c6b005b9dc433cf0eec1f573d47b5b8e910a7",
+      "html_url": "https://github.com/nikhil-01a/TrianglePylint/commit/b95c6b005b9dc433cf0eec1f573d47b5b8e910a7",
+      "comments_url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/b95c6b005b9dc433cf0eec1f573d47b5b8e910a7/comments",
+      "author": {
+        "login": "nikhil-01a",
+        "id": 112984761,
+        "node_id": "U_kgDOBrwCuQ",
+        "avatar_url": "https://avatars.githubusercontent.com/u/112984761?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/nikhil-01a",
+        "html_url": "https://github.com/nikhil-01a",
+        "followers_url": "https://api.github.com/users/nikhil-01a/followers",
+        "following_url": "https://api.github.com/users/nikhil-01a/following{/other_user}",
+        "gists_url": "https://api.github.com/users/nikhil-01a/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/nikhil-01a/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/nikhil-01a/subscriptions",
+        "organizations_url": "https://api.github.com/users/nikhil-01a/orgs",
+        "repos_url": "https://api.github.com/users/nikhil-01a/repos",
+        "events_url": "https://api.github.com/users/nikhil-01a/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/nikhil-01a/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "nikhil-01a",
+        "id": 112984761,
+        "node_id": "U_kgDOBrwCuQ",
+        "avatar_url": "https://avatars.githubusercontent.com/u/112984761?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/nikhil-01a",
+        "html_url": "https://github.com/nikhil-01a",
+        "followers_url": "https://api.github.com/users/nikhil-01a/followers",
+        "following_url": "https://api.github.com/users/nikhil-01a/following{/other_user}",
+        "gists_url": "https://api.github.com/users/nikhil-01a/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/nikhil-01a/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/nikhil-01a/subscriptions",
+        "organizations_url": "https://api.github.com/users/nikhil-01a/orgs",
+        "repos_url": "https://api.github.com/users/nikhil-01a/repos",
+        "events_url": "https://api.github.com/users/nikhil-01a/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/nikhil-01a/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "4f9a5db85699360aa692e044fe86fa4f2f3daca7",
+          "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/4f9a5db85699360aa692e044fe86fa4f2f3daca7",
+          "html_url": "https://github.com/nikhil-01a/TrianglePylint/commit/4f9a5db85699360aa692e044fe86fa4f2f3daca7"
+        }
+      ]
+    },
+    {
+      "sha": "4f9a5db85699360aa692e044fe86fa4f2f3daca7",
+      "node_id": "C_kwDOIL4twdoAKDRmOWE1ZGI4NTY5OTM2MGFhNjkyZTA0NGZlODZmYTRmMmYzZGFjYTc",
+      "commit": {
+        "author": {
+          "name": "nikhilparmar",
+          "email": "nkumarg@stevens.edu",
+          "date": "2022-10-11T15:24:50Z"
+        },
+        "committer": {
+          "name": "nikhilparmar",
+          "email": "nkumarg@stevens.edu",
+          "date": "2022-10-11T15:24:50Z"
+        },
+        "message": "changes",
+        "tree": {
+          "sha": "11b14005d0d49d79e447466899fe5c9b18116a1e",
+          "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/git/trees/11b14005d0d49d79e447466899fe5c9b18116a1e"
+        },
+        "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/git/commits/4f9a5db85699360aa692e044fe86fa4f2f3daca7",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/4f9a5db85699360aa692e044fe86fa4f2f3daca7",
+      "html_url": "https://github.com/nikhil-01a/TrianglePylint/commit/4f9a5db85699360aa692e044fe86fa4f2f3daca7",
+      "comments_url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/4f9a5db85699360aa692e044fe86fa4f2f3daca7/comments",
+      "author": {
+        "login": "nikhil-01a",
+        "id": 112984761,
+        "node_id": "U_kgDOBrwCuQ",
+        "avatar_url": "https://avatars.githubusercontent.com/u/112984761?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/nikhil-01a",
+        "html_url": "https://github.com/nikhil-01a",
+        "followers_url": "https://api.github.com/users/nikhil-01a/followers",
+        "following_url": "https://api.github.com/users/nikhil-01a/following{/other_user}",
+        "gists_url": "https://api.github.com/users/nikhil-01a/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/nikhil-01a/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/nikhil-01a/subscriptions",
+        "organizations_url": "https://api.github.com/users/nikhil-01a/orgs",
+        "repos_url": "https://api.github.com/users/nikhil-01a/repos",
+        "events_url": "https://api.github.com/users/nikhil-01a/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/nikhil-01a/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "nikhil-01a",
+        "id": 112984761,
+        "node_id": "U_kgDOBrwCuQ",
+        "avatar_url": "https://avatars.githubusercontent.com/u/112984761?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/nikhil-01a",
+        "html_url": "https://github.com/nikhil-01a",
+        "followers_url": "https://api.github.com/users/nikhil-01a/followers",
+        "following_url": "https://api.github.com/users/nikhil-01a/following{/other_user}",
+        "gists_url": "https://api.github.com/users/nikhil-01a/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/nikhil-01a/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/nikhil-01a/subscriptions",
+        "organizations_url": "https://api.github.com/users/nikhil-01a/orgs",
+        "repos_url": "https://api.github.com/users/nikhil-01a/repos",
+        "events_url": "https://api.github.com/users/nikhil-01a/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/nikhil-01a/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "22dc19ef68e1973f48e608262ccf23d00d71f59b",
+          "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/22dc19ef68e1973f48e608262ccf23d00d71f59b",
+          "html_url": "https://github.com/nikhil-01a/TrianglePylint/commit/22dc19ef68e1973f48e608262ccf23d00d71f59b"
+        }
+      ]
+    },
+    {
+      "sha": "22dc19ef68e1973f48e608262ccf23d00d71f59b",
+      "node_id": "C_kwDOIL4twdoAKDIyZGMxOWVmNjhlMTk3M2Y0OGU2MDgyNjJjY2YyM2QwMGQ3MWY1OWI",
+      "commit": {
+        "author": {
+          "name": "nikhilparmar",
+          "email": "nkumarg@stevens.edu",
+          "date": "2022-10-11T04:14:50Z"
+        },
+        "committer": {
+          "name": "nikhilparmar",
+          "email": "nkumarg@stevens.edu",
+          "date": "2022-10-11T04:14:50Z"
+        },
+        "message": "updating",
+        "tree": {
+          "sha": "8b5b7c180426d3839a8572ab295bdbef6fc6452a",
+          "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/git/trees/8b5b7c180426d3839a8572ab295bdbef6fc6452a"
+        },
+        "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/git/commits/22dc19ef68e1973f48e608262ccf23d00d71f59b",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/22dc19ef68e1973f48e608262ccf23d00d71f59b",
+      "html_url": "https://github.com/nikhil-01a/TrianglePylint/commit/22dc19ef68e1973f48e608262ccf23d00d71f59b",
+      "comments_url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/22dc19ef68e1973f48e608262ccf23d00d71f59b/comments",
+      "author": {
+        "login": "nikhil-01a",
+        "id": 112984761,
+        "node_id": "U_kgDOBrwCuQ",
+        "avatar_url": "https://avatars.githubusercontent.com/u/112984761?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/nikhil-01a",
+        "html_url": "https://github.com/nikhil-01a",
+        "followers_url": "https://api.github.com/users/nikhil-01a/followers",
+        "following_url": "https://api.github.com/users/nikhil-01a/following{/other_user}",
+        "gists_url": "https://api.github.com/users/nikhil-01a/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/nikhil-01a/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/nikhil-01a/subscriptions",
+        "organizations_url": "https://api.github.com/users/nikhil-01a/orgs",
+        "repos_url": "https://api.github.com/users/nikhil-01a/repos",
+        "events_url": "https://api.github.com/users/nikhil-01a/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/nikhil-01a/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "nikhil-01a",
+        "id": 112984761,
+        "node_id": "U_kgDOBrwCuQ",
+        "avatar_url": "https://avatars.githubusercontent.com/u/112984761?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/nikhil-01a",
+        "html_url": "https://github.com/nikhil-01a",
+        "followers_url": "https://api.github.com/users/nikhil-01a/followers",
+        "following_url": "https://api.github.com/users/nikhil-01a/following{/other_user}",
+        "gists_url": "https://api.github.com/users/nikhil-01a/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/nikhil-01a/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/nikhil-01a/subscriptions",
+        "organizations_url": "https://api.github.com/users/nikhil-01a/orgs",
+        "repos_url": "https://api.github.com/users/nikhil-01a/repos",
+        "events_url": "https://api.github.com/users/nikhil-01a/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/nikhil-01a/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "e3b1f1e6ab061edd670f203a30454bea852418b3",
+          "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/e3b1f1e6ab061edd670f203a30454bea852418b3",
+          "html_url": "https://github.com/nikhil-01a/TrianglePylint/commit/e3b1f1e6ab061edd670f203a30454bea852418b3"
+        }
+      ]
+    },
+    {
+      "sha": "e3b1f1e6ab061edd670f203a30454bea852418b3",
+      "node_id": "C_kwDOIL4twdoAKGUzYjFmMWU2YWIwNjFlZGQ2NzBmMjAzYTMwNDU0YmVhODUyNDE4YjM",
+      "commit": {
+        "author": {
+          "name": "nikhilparmar",
+          "email": "nkumarg@stevens.edu",
+          "date": "2022-10-11T03:54:59Z"
+        },
+        "committer": {
+          "name": "nikhilparmar",
+          "email": "nkumarg@stevens.edu",
+          "date": "2022-10-11T03:54:59Z"
+        },
+        "message": "code changes",
+        "tree": {
+          "sha": "3a04bd6ca810b1d18a5a774a25c92537c49d20a2",
+          "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/git/trees/3a04bd6ca810b1d18a5a774a25c92537c49d20a2"
+        },
+        "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/git/commits/e3b1f1e6ab061edd670f203a30454bea852418b3",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/e3b1f1e6ab061edd670f203a30454bea852418b3",
+      "html_url": "https://github.com/nikhil-01a/TrianglePylint/commit/e3b1f1e6ab061edd670f203a30454bea852418b3",
+      "comments_url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/e3b1f1e6ab061edd670f203a30454bea852418b3/comments",
+      "author": {
+        "login": "nikhil-01a",
+        "id": 112984761,
+        "node_id": "U_kgDOBrwCuQ",
+        "avatar_url": "https://avatars.githubusercontent.com/u/112984761?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/nikhil-01a",
+        "html_url": "https://github.com/nikhil-01a",
+        "followers_url": "https://api.github.com/users/nikhil-01a/followers",
+        "following_url": "https://api.github.com/users/nikhil-01a/following{/other_user}",
+        "gists_url": "https://api.github.com/users/nikhil-01a/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/nikhil-01a/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/nikhil-01a/subscriptions",
+        "organizations_url": "https://api.github.com/users/nikhil-01a/orgs",
+        "repos_url": "https://api.github.com/users/nikhil-01a/repos",
+        "events_url": "https://api.github.com/users/nikhil-01a/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/nikhil-01a/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "nikhil-01a",
+        "id": 112984761,
+        "node_id": "U_kgDOBrwCuQ",
+        "avatar_url": "https://avatars.githubusercontent.com/u/112984761?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/nikhil-01a",
+        "html_url": "https://github.com/nikhil-01a",
+        "followers_url": "https://api.github.com/users/nikhil-01a/followers",
+        "following_url": "https://api.github.com/users/nikhil-01a/following{/other_user}",
+        "gists_url": "https://api.github.com/users/nikhil-01a/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/nikhil-01a/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/nikhil-01a/subscriptions",
+        "organizations_url": "https://api.github.com/users/nikhil-01a/orgs",
+        "repos_url": "https://api.github.com/users/nikhil-01a/repos",
+        "events_url": "https://api.github.com/users/nikhil-01a/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/nikhil-01a/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "790f1de3febff2c0648b43798d25d9207b583fc6",
+          "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/790f1de3febff2c0648b43798d25d9207b583fc6",
+          "html_url": "https://github.com/nikhil-01a/TrianglePylint/commit/790f1de3febff2c0648b43798d25d9207b583fc6"
+        }
+      ]
+    },
+    {
+      "sha": "790f1de3febff2c0648b43798d25d9207b583fc6",
+      "node_id": "C_kwDOIL4twdoAKDc5MGYxZGUzZmViZmYyYzA2NDhiNDM3OThkMjVkOTIwN2I1ODNmYzY",
+      "commit": {
+        "author": {
+          "name": "nikhilparmar",
+          "email": "nkumarg@stevens.edu",
+          "date": "2022-10-11T03:49:48Z"
+        },
+        "committer": {
+          "name": "nikhilparmar",
+          "email": "nkumarg@stevens.edu",
+          "date": "2022-10-11T03:49:48Z"
+        },
+        "message": "Added files again",
+        "tree": {
+          "sha": "33d000fec94691df460be97525c99caf8de4ae62",
+          "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/git/trees/33d000fec94691df460be97525c99caf8de4ae62"
+        },
+        "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/git/commits/790f1de3febff2c0648b43798d25d9207b583fc6",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/790f1de3febff2c0648b43798d25d9207b583fc6",
+      "html_url": "https://github.com/nikhil-01a/TrianglePylint/commit/790f1de3febff2c0648b43798d25d9207b583fc6",
+      "comments_url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/790f1de3febff2c0648b43798d25d9207b583fc6/comments",
+      "author": {
+        "login": "nikhil-01a",
+        "id": 112984761,
+        "node_id": "U_kgDOBrwCuQ",
+        "avatar_url": "https://avatars.githubusercontent.com/u/112984761?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/nikhil-01a",
+        "html_url": "https://github.com/nikhil-01a",
+        "followers_url": "https://api.github.com/users/nikhil-01a/followers",
+        "following_url": "https://api.github.com/users/nikhil-01a/following{/other_user}",
+        "gists_url": "https://api.github.com/users/nikhil-01a/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/nikhil-01a/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/nikhil-01a/subscriptions",
+        "organizations_url": "https://api.github.com/users/nikhil-01a/orgs",
+        "repos_url": "https://api.github.com/users/nikhil-01a/repos",
+        "events_url": "https://api.github.com/users/nikhil-01a/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/nikhil-01a/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "nikhil-01a",
+        "id": 112984761,
+        "node_id": "U_kgDOBrwCuQ",
+        "avatar_url": "https://avatars.githubusercontent.com/u/112984761?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/nikhil-01a",
+        "html_url": "https://github.com/nikhil-01a",
+        "followers_url": "https://api.github.com/users/nikhil-01a/followers",
+        "following_url": "https://api.github.com/users/nikhil-01a/following{/other_user}",
+        "gists_url": "https://api.github.com/users/nikhil-01a/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/nikhil-01a/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/nikhil-01a/subscriptions",
+        "organizations_url": "https://api.github.com/users/nikhil-01a/orgs",
+        "repos_url": "https://api.github.com/users/nikhil-01a/repos",
+        "events_url": "https://api.github.com/users/nikhil-01a/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/nikhil-01a/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "cb488c3821c849fa35b80d37c7ff8eb1a38bc7ba",
+          "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/cb488c3821c849fa35b80d37c7ff8eb1a38bc7ba",
+          "html_url": "https://github.com/nikhil-01a/TrianglePylint/commit/cb488c3821c849fa35b80d37c7ff8eb1a38bc7ba"
+        }
+      ]
+    },
+    {
+      "sha": "cb488c3821c849fa35b80d37c7ff8eb1a38bc7ba",
+      "node_id": "C_kwDOIL4twdoAKGNiNDg4YzM4MjFjODQ5ZmEzNWI4MGQzN2M3ZmY4ZWIxYTM4YmM3YmE",
+      "commit": {
+        "author": {
+          "name": "nikhilparmar",
+          "email": "nkumarg@stevens.edu",
+          "date": "2022-10-11T03:48:45Z"
+        },
+        "committer": {
+          "name": "nikhilparmar",
+          "email": "nkumarg@stevens.edu",
+          "date": "2022-10-11T03:48:45Z"
+        },
+        "message": "DELETED",
+        "tree": {
+          "sha": "9801504f6378c4232634639223e84c940639a0b7",
+          "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/git/trees/9801504f6378c4232634639223e84c940639a0b7"
+        },
+        "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/git/commits/cb488c3821c849fa35b80d37c7ff8eb1a38bc7ba",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/cb488c3821c849fa35b80d37c7ff8eb1a38bc7ba",
+      "html_url": "https://github.com/nikhil-01a/TrianglePylint/commit/cb488c3821c849fa35b80d37c7ff8eb1a38bc7ba",
+      "comments_url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/cb488c3821c849fa35b80d37c7ff8eb1a38bc7ba/comments",
+      "author": {
+        "login": "nikhil-01a",
+        "id": 112984761,
+        "node_id": "U_kgDOBrwCuQ",
+        "avatar_url": "https://avatars.githubusercontent.com/u/112984761?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/nikhil-01a",
+        "html_url": "https://github.com/nikhil-01a",
+        "followers_url": "https://api.github.com/users/nikhil-01a/followers",
+        "following_url": "https://api.github.com/users/nikhil-01a/following{/other_user}",
+        "gists_url": "https://api.github.com/users/nikhil-01a/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/nikhil-01a/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/nikhil-01a/subscriptions",
+        "organizations_url": "https://api.github.com/users/nikhil-01a/orgs",
+        "repos_url": "https://api.github.com/users/nikhil-01a/repos",
+        "events_url": "https://api.github.com/users/nikhil-01a/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/nikhil-01a/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "nikhil-01a",
+        "id": 112984761,
+        "node_id": "U_kgDOBrwCuQ",
+        "avatar_url": "https://avatars.githubusercontent.com/u/112984761?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/nikhil-01a",
+        "html_url": "https://github.com/nikhil-01a",
+        "followers_url": "https://api.github.com/users/nikhil-01a/followers",
+        "following_url": "https://api.github.com/users/nikhil-01a/following{/other_user}",
+        "gists_url": "https://api.github.com/users/nikhil-01a/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/nikhil-01a/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/nikhil-01a/subscriptions",
+        "organizations_url": "https://api.github.com/users/nikhil-01a/orgs",
+        "repos_url": "https://api.github.com/users/nikhil-01a/repos",
+        "events_url": "https://api.github.com/users/nikhil-01a/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/nikhil-01a/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "650ef17f161dc56d65f3817db0e6650ec44e4363",
+          "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/650ef17f161dc56d65f3817db0e6650ec44e4363",
+          "html_url": "https://github.com/nikhil-01a/TrianglePylint/commit/650ef17f161dc56d65f3817db0e6650ec44e4363"
+        }
+      ]
+    },
+    {
+      "sha": "650ef17f161dc56d65f3817db0e6650ec44e4363",
+      "node_id": "C_kwDOIL4twdoAKDY1MGVmMTdmMTYxZGM1NmQ2NWYzODE3ZGIwZTY2NTBlYzQ0ZTQzNjM",
+      "commit": {
+        "author": {
+          "name": "nikhilparmar",
+          "email": "nkumarg@stevens.edu",
+          "date": "2022-10-11T03:45:02Z"
+        },
+        "committer": {
+          "name": "nikhilparmar",
+          "email": "nkumarg@stevens.edu",
+          "date": "2022-10-11T03:45:02Z"
+        },
+        "message": "test file changed",
+        "tree": {
+          "sha": "0a2d934ad30c9ec760ed21cc7df9178d0639a134",
+          "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/git/trees/0a2d934ad30c9ec760ed21cc7df9178d0639a134"
+        },
+        "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/git/commits/650ef17f161dc56d65f3817db0e6650ec44e4363",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/650ef17f161dc56d65f3817db0e6650ec44e4363",
+      "html_url": "https://github.com/nikhil-01a/TrianglePylint/commit/650ef17f161dc56d65f3817db0e6650ec44e4363",
+      "comments_url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/650ef17f161dc56d65f3817db0e6650ec44e4363/comments",
+      "author": {
+        "login": "nikhil-01a",
+        "id": 112984761,
+        "node_id": "U_kgDOBrwCuQ",
+        "avatar_url": "https://avatars.githubusercontent.com/u/112984761?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/nikhil-01a",
+        "html_url": "https://github.com/nikhil-01a",
+        "followers_url": "https://api.github.com/users/nikhil-01a/followers",
+        "following_url": "https://api.github.com/users/nikhil-01a/following{/other_user}",
+        "gists_url": "https://api.github.com/users/nikhil-01a/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/nikhil-01a/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/nikhil-01a/subscriptions",
+        "organizations_url": "https://api.github.com/users/nikhil-01a/orgs",
+        "repos_url": "https://api.github.com/users/nikhil-01a/repos",
+        "events_url": "https://api.github.com/users/nikhil-01a/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/nikhil-01a/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "nikhil-01a",
+        "id": 112984761,
+        "node_id": "U_kgDOBrwCuQ",
+        "avatar_url": "https://avatars.githubusercontent.com/u/112984761?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/nikhil-01a",
+        "html_url": "https://github.com/nikhil-01a",
+        "followers_url": "https://api.github.com/users/nikhil-01a/followers",
+        "following_url": "https://api.github.com/users/nikhil-01a/following{/other_user}",
+        "gists_url": "https://api.github.com/users/nikhil-01a/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/nikhil-01a/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/nikhil-01a/subscriptions",
+        "organizations_url": "https://api.github.com/users/nikhil-01a/orgs",
+        "repos_url": "https://api.github.com/users/nikhil-01a/repos",
+        "events_url": "https://api.github.com/users/nikhil-01a/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/nikhil-01a/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "cc6b866b587d9c0876e7968fb5fd5e4ca2476770",
+          "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/cc6b866b587d9c0876e7968fb5fd5e4ca2476770",
+          "html_url": "https://github.com/nikhil-01a/TrianglePylint/commit/cc6b866b587d9c0876e7968fb5fd5e4ca2476770"
+        }
+      ]
+    },
+    {
+      "sha": "cc6b866b587d9c0876e7968fb5fd5e4ca2476770",
+      "node_id": "C_kwDOIL4twdoAKGNjNmI4NjZiNTg3ZDljMDg3NmU3OTY4ZmI1ZmQ1ZTRjYTI0NzY3NzA",
+      "commit": {
+        "author": {
+          "name": "nikhilparmar",
+          "email": "nkumarg@stevens.edu",
+          "date": "2022-10-11T03:41:56Z"
+        },
+        "committer": {
+          "name": "nikhilparmar",
+          "email": "nkumarg@stevens.edu",
+          "date": "2022-10-11T03:41:56Z"
+        },
+        "message": "modified",
+        "tree": {
+          "sha": "8074e9b3930b2a26d5a4d80cdd996034c95ca06f",
+          "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/git/trees/8074e9b3930b2a26d5a4d80cdd996034c95ca06f"
+        },
+        "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/git/commits/cc6b866b587d9c0876e7968fb5fd5e4ca2476770",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/cc6b866b587d9c0876e7968fb5fd5e4ca2476770",
+      "html_url": "https://github.com/nikhil-01a/TrianglePylint/commit/cc6b866b587d9c0876e7968fb5fd5e4ca2476770",
+      "comments_url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/cc6b866b587d9c0876e7968fb5fd5e4ca2476770/comments",
+      "author": {
+        "login": "nikhil-01a",
+        "id": 112984761,
+        "node_id": "U_kgDOBrwCuQ",
+        "avatar_url": "https://avatars.githubusercontent.com/u/112984761?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/nikhil-01a",
+        "html_url": "https://github.com/nikhil-01a",
+        "followers_url": "https://api.github.com/users/nikhil-01a/followers",
+        "following_url": "https://api.github.com/users/nikhil-01a/following{/other_user}",
+        "gists_url": "https://api.github.com/users/nikhil-01a/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/nikhil-01a/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/nikhil-01a/subscriptions",
+        "organizations_url": "https://api.github.com/users/nikhil-01a/orgs",
+        "repos_url": "https://api.github.com/users/nikhil-01a/repos",
+        "events_url": "https://api.github.com/users/nikhil-01a/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/nikhil-01a/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "nikhil-01a",
+        "id": 112984761,
+        "node_id": "U_kgDOBrwCuQ",
+        "avatar_url": "https://avatars.githubusercontent.com/u/112984761?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/nikhil-01a",
+        "html_url": "https://github.com/nikhil-01a",
+        "followers_url": "https://api.github.com/users/nikhil-01a/followers",
+        "following_url": "https://api.github.com/users/nikhil-01a/following{/other_user}",
+        "gists_url": "https://api.github.com/users/nikhil-01a/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/nikhil-01a/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/nikhil-01a/subscriptions",
+        "organizations_url": "https://api.github.com/users/nikhil-01a/orgs",
+        "repos_url": "https://api.github.com/users/nikhil-01a/repos",
+        "events_url": "https://api.github.com/users/nikhil-01a/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/nikhil-01a/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "4538380093d4cedaf8b9c2ccce14188700bf9832",
+          "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/4538380093d4cedaf8b9c2ccce14188700bf9832",
+          "html_url": "https://github.com/nikhil-01a/TrianglePylint/commit/4538380093d4cedaf8b9c2ccce14188700bf9832"
+        }
+      ]
+    },
+    {
+      "sha": "4538380093d4cedaf8b9c2ccce14188700bf9832",
+      "node_id": "C_kwDOIL4twdoAKDQ1MzgzODAwOTNkNGNlZGFmOGI5YzJjY2NlMTQxODg3MDBiZjk4MzI",
+      "commit": {
+        "author": {
+          "name": "nikhilparmar",
+          "email": "nkumarg@stevens.edu",
+          "date": "2022-10-11T03:41:46Z"
+        },
+        "committer": {
+          "name": "nikhilparmar",
+          "email": "nkumarg@stevens.edu",
+          "date": "2022-10-11T03:41:46Z"
+        },
+        "message": "test file",
+        "tree": {
+          "sha": "1d8bae0bd9a40f8cc3dc6cfec15f309870faa55c",
+          "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/git/trees/1d8bae0bd9a40f8cc3dc6cfec15f309870faa55c"
+        },
+        "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/git/commits/4538380093d4cedaf8b9c2ccce14188700bf9832",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/4538380093d4cedaf8b9c2ccce14188700bf9832",
+      "html_url": "https://github.com/nikhil-01a/TrianglePylint/commit/4538380093d4cedaf8b9c2ccce14188700bf9832",
+      "comments_url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/4538380093d4cedaf8b9c2ccce14188700bf9832/comments",
+      "author": {
+        "login": "nikhil-01a",
+        "id": 112984761,
+        "node_id": "U_kgDOBrwCuQ",
+        "avatar_url": "https://avatars.githubusercontent.com/u/112984761?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/nikhil-01a",
+        "html_url": "https://github.com/nikhil-01a",
+        "followers_url": "https://api.github.com/users/nikhil-01a/followers",
+        "following_url": "https://api.github.com/users/nikhil-01a/following{/other_user}",
+        "gists_url": "https://api.github.com/users/nikhil-01a/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/nikhil-01a/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/nikhil-01a/subscriptions",
+        "organizations_url": "https://api.github.com/users/nikhil-01a/orgs",
+        "repos_url": "https://api.github.com/users/nikhil-01a/repos",
+        "events_url": "https://api.github.com/users/nikhil-01a/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/nikhil-01a/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "nikhil-01a",
+        "id": 112984761,
+        "node_id": "U_kgDOBrwCuQ",
+        "avatar_url": "https://avatars.githubusercontent.com/u/112984761?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/nikhil-01a",
+        "html_url": "https://github.com/nikhil-01a",
+        "followers_url": "https://api.github.com/users/nikhil-01a/followers",
+        "following_url": "https://api.github.com/users/nikhil-01a/following{/other_user}",
+        "gists_url": "https://api.github.com/users/nikhil-01a/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/nikhil-01a/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/nikhil-01a/subscriptions",
+        "organizations_url": "https://api.github.com/users/nikhil-01a/orgs",
+        "repos_url": "https://api.github.com/users/nikhil-01a/repos",
+        "events_url": "https://api.github.com/users/nikhil-01a/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/nikhil-01a/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "98ba04d41531fdb67bcda8c9314ee1eba1b1c1e5",
+          "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/98ba04d41531fdb67bcda8c9314ee1eba1b1c1e5",
+          "html_url": "https://github.com/nikhil-01a/TrianglePylint/commit/98ba04d41531fdb67bcda8c9314ee1eba1b1c1e5"
+        }
+      ]
+    },
+    {
+      "sha": "98ba04d41531fdb67bcda8c9314ee1eba1b1c1e5",
+      "node_id": "C_kwDOIL4twdoAKDk4YmEwNGQ0MTUzMWZkYjY3YmNkYThjOTMxNGVlMWViYTFiMWMxZTU",
+      "commit": {
+        "author": {
+          "name": "nikhilparmar",
+          "email": "nkumarg@stevens.edu",
+          "date": "2022-10-11T03:29:08Z"
+        },
+        "committer": {
+          "name": "nikhilparmar",
+          "email": "nkumarg@stevens.edu",
+          "date": "2022-10-11T03:29:08Z"
+        },
+        "message": "modified",
+        "tree": {
+          "sha": "32e993ea820d322fc9807a9625876a1c02f8bef3",
+          "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/git/trees/32e993ea820d322fc9807a9625876a1c02f8bef3"
+        },
+        "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/git/commits/98ba04d41531fdb67bcda8c9314ee1eba1b1c1e5",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/98ba04d41531fdb67bcda8c9314ee1eba1b1c1e5",
+      "html_url": "https://github.com/nikhil-01a/TrianglePylint/commit/98ba04d41531fdb67bcda8c9314ee1eba1b1c1e5",
+      "comments_url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/98ba04d41531fdb67bcda8c9314ee1eba1b1c1e5/comments",
+      "author": {
+        "login": "nikhil-01a",
+        "id": 112984761,
+        "node_id": "U_kgDOBrwCuQ",
+        "avatar_url": "https://avatars.githubusercontent.com/u/112984761?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/nikhil-01a",
+        "html_url": "https://github.com/nikhil-01a",
+        "followers_url": "https://api.github.com/users/nikhil-01a/followers",
+        "following_url": "https://api.github.com/users/nikhil-01a/following{/other_user}",
+        "gists_url": "https://api.github.com/users/nikhil-01a/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/nikhil-01a/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/nikhil-01a/subscriptions",
+        "organizations_url": "https://api.github.com/users/nikhil-01a/orgs",
+        "repos_url": "https://api.github.com/users/nikhil-01a/repos",
+        "events_url": "https://api.github.com/users/nikhil-01a/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/nikhil-01a/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "nikhil-01a",
+        "id": 112984761,
+        "node_id": "U_kgDOBrwCuQ",
+        "avatar_url": "https://avatars.githubusercontent.com/u/112984761?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/nikhil-01a",
+        "html_url": "https://github.com/nikhil-01a",
+        "followers_url": "https://api.github.com/users/nikhil-01a/followers",
+        "following_url": "https://api.github.com/users/nikhil-01a/following{/other_user}",
+        "gists_url": "https://api.github.com/users/nikhil-01a/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/nikhil-01a/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/nikhil-01a/subscriptions",
+        "organizations_url": "https://api.github.com/users/nikhil-01a/orgs",
+        "repos_url": "https://api.github.com/users/nikhil-01a/repos",
+        "events_url": "https://api.github.com/users/nikhil-01a/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/nikhil-01a/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "883244995bd0aa5ae7cbb3e332a2e81261aff1d5",
+          "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/883244995bd0aa5ae7cbb3e332a2e81261aff1d5",
+          "html_url": "https://github.com/nikhil-01a/TrianglePylint/commit/883244995bd0aa5ae7cbb3e332a2e81261aff1d5"
+        }
+      ]
+    },
+    {
+      "sha": "883244995bd0aa5ae7cbb3e332a2e81261aff1d5",
+      "node_id": "C_kwDOIL4twdoAKDg4MzI0NDk5NWJkMGFhNWFlN2NiYjNlMzMyYTJlODEyNjFhZmYxZDU",
+      "commit": {
+        "author": {
+          "name": "nikhilparmar",
+          "email": "nkumarg@stevens.edu",
+          "date": "2022-10-11T03:09:21Z"
+        },
+        "committer": {
+          "name": "nikhilparmar",
+          "email": "nkumarg@stevens.edu",
+          "date": "2022-10-11T03:09:21Z"
+        },
+        "message": "added classify triangle code",
+        "tree": {
+          "sha": "494c34a95981b2a2f8678c9783905ed7cc91244c",
+          "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/git/trees/494c34a95981b2a2f8678c9783905ed7cc91244c"
+        },
+        "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/git/commits/883244995bd0aa5ae7cbb3e332a2e81261aff1d5",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/883244995bd0aa5ae7cbb3e332a2e81261aff1d5",
+      "html_url": "https://github.com/nikhil-01a/TrianglePylint/commit/883244995bd0aa5ae7cbb3e332a2e81261aff1d5",
+      "comments_url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/883244995bd0aa5ae7cbb3e332a2e81261aff1d5/comments",
+      "author": {
+        "login": "nikhil-01a",
+        "id": 112984761,
+        "node_id": "U_kgDOBrwCuQ",
+        "avatar_url": "https://avatars.githubusercontent.com/u/112984761?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/nikhil-01a",
+        "html_url": "https://github.com/nikhil-01a",
+        "followers_url": "https://api.github.com/users/nikhil-01a/followers",
+        "following_url": "https://api.github.com/users/nikhil-01a/following{/other_user}",
+        "gists_url": "https://api.github.com/users/nikhil-01a/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/nikhil-01a/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/nikhil-01a/subscriptions",
+        "organizations_url": "https://api.github.com/users/nikhil-01a/orgs",
+        "repos_url": "https://api.github.com/users/nikhil-01a/repos",
+        "events_url": "https://api.github.com/users/nikhil-01a/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/nikhil-01a/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "nikhil-01a",
+        "id": 112984761,
+        "node_id": "U_kgDOBrwCuQ",
+        "avatar_url": "https://avatars.githubusercontent.com/u/112984761?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/nikhil-01a",
+        "html_url": "https://github.com/nikhil-01a",
+        "followers_url": "https://api.github.com/users/nikhil-01a/followers",
+        "following_url": "https://api.github.com/users/nikhil-01a/following{/other_user}",
+        "gists_url": "https://api.github.com/users/nikhil-01a/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/nikhil-01a/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/nikhil-01a/subscriptions",
+        "organizations_url": "https://api.github.com/users/nikhil-01a/orgs",
+        "repos_url": "https://api.github.com/users/nikhil-01a/repos",
+        "events_url": "https://api.github.com/users/nikhil-01a/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/nikhil-01a/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "1b1a97691eb7e8e2473badc273342e772bdb5e75",
+          "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/1b1a97691eb7e8e2473badc273342e772bdb5e75",
+          "html_url": "https://github.com/nikhil-01a/TrianglePylint/commit/1b1a97691eb7e8e2473badc273342e772bdb5e75"
+        }
+      ]
+    },
+    {
+      "sha": "1b1a97691eb7e8e2473badc273342e772bdb5e75",
+      "node_id": "C_kwDOIL4twdoAKDFiMWE5NzY5MWViN2U4ZTI0NzNiYWRjMjczMzQyZTc3MmJkYjVlNzU",
+      "commit": {
+        "author": {
+          "name": "nikhilparmar",
+          "email": "nkumarg@stevens.edu",
+          "date": "2022-10-11T03:07:13Z"
+        },
+        "committer": {
+          "name": "nikhilparmar",
+          "email": "nkumarg@stevens.edu",
+          "date": "2022-10-11T03:07:13Z"
+        },
+        "message": "Added triangle file",
+        "tree": {
+          "sha": "eb130b315e4946d4bf5a7d64c0a211a053efdda6",
+          "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/git/trees/eb130b315e4946d4bf5a7d64c0a211a053efdda6"
+        },
+        "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/git/commits/1b1a97691eb7e8e2473badc273342e772bdb5e75",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/1b1a97691eb7e8e2473badc273342e772bdb5e75",
+      "html_url": "https://github.com/nikhil-01a/TrianglePylint/commit/1b1a97691eb7e8e2473badc273342e772bdb5e75",
+      "comments_url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/1b1a97691eb7e8e2473badc273342e772bdb5e75/comments",
+      "author": {
+        "login": "nikhil-01a",
+        "id": 112984761,
+        "node_id": "U_kgDOBrwCuQ",
+        "avatar_url": "https://avatars.githubusercontent.com/u/112984761?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/nikhil-01a",
+        "html_url": "https://github.com/nikhil-01a",
+        "followers_url": "https://api.github.com/users/nikhil-01a/followers",
+        "following_url": "https://api.github.com/users/nikhil-01a/following{/other_user}",
+        "gists_url": "https://api.github.com/users/nikhil-01a/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/nikhil-01a/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/nikhil-01a/subscriptions",
+        "organizations_url": "https://api.github.com/users/nikhil-01a/orgs",
+        "repos_url": "https://api.github.com/users/nikhil-01a/repos",
+        "events_url": "https://api.github.com/users/nikhil-01a/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/nikhil-01a/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "nikhil-01a",
+        "id": 112984761,
+        "node_id": "U_kgDOBrwCuQ",
+        "avatar_url": "https://avatars.githubusercontent.com/u/112984761?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/nikhil-01a",
+        "html_url": "https://github.com/nikhil-01a",
+        "followers_url": "https://api.github.com/users/nikhil-01a/followers",
+        "following_url": "https://api.github.com/users/nikhil-01a/following{/other_user}",
+        "gists_url": "https://api.github.com/users/nikhil-01a/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/nikhil-01a/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/nikhil-01a/subscriptions",
+        "organizations_url": "https://api.github.com/users/nikhil-01a/orgs",
+        "repos_url": "https://api.github.com/users/nikhil-01a/repos",
+        "events_url": "https://api.github.com/users/nikhil-01a/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/nikhil-01a/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "8bec04dc03b9f5134a8f411629d1a8f5aff06f3a",
+          "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/8bec04dc03b9f5134a8f411629d1a8f5aff06f3a",
+          "html_url": "https://github.com/nikhil-01a/TrianglePylint/commit/8bec04dc03b9f5134a8f411629d1a8f5aff06f3a"
+        }
+      ]
+    },
+    {
+      "sha": "8bec04dc03b9f5134a8f411629d1a8f5aff06f3a",
+      "node_id": "C_kwDOIL4twdoAKDhiZWMwNGRjMDNiOWY1MTM0YThmNDExNjI5ZDFhOGY1YWZmMDZmM2E",
+      "commit": {
+        "author": {
+          "name": "nikhil-01a",
+          "email": "112984761+nikhil-01a@users.noreply.github.com",
+          "date": "2022-10-11T03:01:50Z"
+        },
+        "committer": {
+          "name": "GitHub",
+          "email": "noreply@github.com",
+          "date": "2022-10-11T03:01:50Z"
+        },
+        "message": "Initial commit",
+        "tree": {
+          "sha": "9801504f6378c4232634639223e84c940639a0b7",
+          "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/git/trees/9801504f6378c4232634639223e84c940639a0b7"
+        },
+        "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/git/commits/8bec04dc03b9f5134a8f411629d1a8f5aff06f3a",
+        "comment_count": 0,
+        "verification": {
+          "verified": true,
+          "reason": "valid",
+          "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJjRNyeCRBK7hj4Ov3rIwAA5gQIABl5oIe4mkwYf2pwEVxiuz6E\n+inzyQGoW6jJS2OWnrjQ/fhZZFmlSbyWddd9NJBhmlcQJGxd1ZQ2pqTdUvGgk1Rs\nsvUV6X+mq77UiEy5ONDwD0fFAgjdAAuN3u/8+YUWyI6Uzqv/sveCdwRcf6JQnjC7\nRfYkzaEHiIlRuvPc/4WqIKYxgPjwEvGULY+hXYLeut7+yal49JlUStQY/MzEF9/v\nmFGmnEga8QQyAkuy+izR5zuM5SOUmBlTlkcwfYOIoCkccJFJMFnDNGIDIUi4Dbpv\nsfvoj1u5HNX+eaY5cIB2ug4Mf1eYBskLiMUByND3PLIzoJLnkxHvykvZelEe0YM=\n=/H9F\n-----END PGP SIGNATURE-----\n",
+          "payload": "tree 9801504f6378c4232634639223e84c940639a0b7\nauthor nikhil-01a <112984761+nikhil-01a@users.noreply.github.com> 1665457310 -0400\ncommitter GitHub <noreply@github.com> 1665457310 -0400\n\nInitial commit"
+        }
+      },
+      "url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/8bec04dc03b9f5134a8f411629d1a8f5aff06f3a",
+      "html_url": "https://github.com/nikhil-01a/TrianglePylint/commit/8bec04dc03b9f5134a8f411629d1a8f5aff06f3a",
+      "comments_url": "https://api.github.com/repos/nikhil-01a/TrianglePylint/commits/8bec04dc03b9f5134a8f411629d1a8f5aff06f3a/comments",
+      "author": {
+        "login": "nikhil-01a",
+        "id": 112984761,
+        "node_id": "U_kgDOBrwCuQ",
+        "avatar_url": "https://avatars.githubusercontent.com/u/112984761?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/nikhil-01a",
+        "html_url": "https://github.com/nikhil-01a",
+        "followers_url": "https://api.github.com/users/nikhil-01a/followers",
+        "following_url": "https://api.github.com/users/nikhil-01a/following{/other_user}",
+        "gists_url": "https://api.github.com/users/nikhil-01a/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/nikhil-01a/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/nikhil-01a/subscriptions",
+        "organizations_url": "https://api.github.com/users/nikhil-01a/orgs",
+        "repos_url": "https://api.github.com/users/nikhil-01a/repos",
+        "events_url": "https://api.github.com/users/nikhil-01a/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/nikhil-01a/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "web-flow",
+        "id": 19864447,
+        "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/web-flow",
+        "html_url": "https://github.com/web-flow",
+        "followers_url": "https://api.github.com/users/web-flow/followers",
+        "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+        "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+        "organizations_url": "https://api.github.com/users/web-flow/orgs",
+        "repos_url": "https://api.github.com/users/web-flow/repos",
+        "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/web-flow/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+  
+      ]
+    }
+  ]
