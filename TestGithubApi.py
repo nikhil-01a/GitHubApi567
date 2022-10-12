@@ -24,15 +24,6 @@ def mocked_requests_get(*args):
     if args[0] in switcher:
         with open(switcher[args[0]], encoding="utf-8") as f:
             return MockResponse(json.load(f))
-    if args[1] in switcher:
-        with open(switcher[args[1]], encoding="utf-8") as f:
-            return MockResponse(json.load(f))
-    if args[2] in switcher:
-        with open(switcher[args[2]], encoding="utf-8") as f:
-            return MockResponse(json.load(f))
-    if args[3] in switcher:
-        with open(switcher[args[3]], encoding="utf-8") as f:
-            return MockResponse(json.load(f))
     return MockResponse(None)
 
 switcher = {
